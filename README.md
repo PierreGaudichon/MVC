@@ -28,3 +28,8 @@ Summary
     - events
     - createElement
     - template
+
+TODO
+-----
+
+- autorerender on @attr changes
